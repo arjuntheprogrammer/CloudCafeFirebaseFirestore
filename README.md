@@ -13,10 +13,10 @@ Simple Webpage to list available Cafe with a location using Firebase Firestore.
 ## Screenshots
 
 
-<img src="https://user-images.githubusercontent.com/15984084/119035435-32ffef00-b9cd-11eb-86b5-1996f583e5b6.png" width="500" height="300"/>
+<img src="https://user-images.githubusercontent.com/15984084/119035435-32ffef00-b9cd-11eb-86b5-1996f583e5b6.png" width="800" height="600"/>
 
-<img src="https://user-images.githubusercontent.com/15984084/119035447-36937600-b9cd-11eb-8e5c-b01cd3fdf92f.png" width="500" height="300"/>
+<img src="https://user-images.githubusercontent.com/15984084/119035447-36937600-b9cd-11eb-8e5c-b01cd3fdf92f.png" width="800" height="600"/>
 
-<img src="https://user-images.githubusercontent.com/15984084/119035452-372c0c80-b9cd-11eb-9478-012fc3e5061e.png" width="500" height="200"/>
+<img src="https://user-images.githubusercontent.com/15984084/119035452-372c0c80-b9cd-11eb-9478-012fc3e5061e.png" width="800" height="300"/>
 
 ---
